@@ -4,6 +4,7 @@ public class TestCase
 	public static void main(String[] args) 
 	{
 		String a= "Sagar";
+		Sting b="Test";
 		String s="My Name Is Sagar";
 		/*String[] arr = s.split(" ");
 		for (int i=0; i<arr.length; i++) 
